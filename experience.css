@@ -7,6 +7,17 @@ h6{
     font-weight: bold;
 }
 
+@media screen and (max-width: 600px){
+    .jobTitle
+    {
+    word-wrap:break-word;
+    }
+  }
+
+body {
+    margin: 24px 10px;
+   } 
+
 img {
     padding-top: 20px; }
 
